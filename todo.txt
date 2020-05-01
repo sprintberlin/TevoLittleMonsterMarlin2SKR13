@@ -1,2 +1,4 @@
 configuration_adv.h
  //#define LIN_ADVANCE check, interesting feature for extruder
+ #define BABYSTEP_ZPROBE_OFFSET
+ #define BABYSTEP_MULTIPLICATOR 10 (faster probing)
