@@ -1,0 +1,2 @@
+configuration_adv.h
+ //#define LIN_ADVANCE check, interesting feature for extruder
