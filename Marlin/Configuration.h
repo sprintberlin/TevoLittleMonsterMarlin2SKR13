@@ -498,10 +498,10 @@
   //#define DEFAULT_Ki 2.25
   //#define DEFAULT_Kd 440
 
-  //E3D with 30MM fan (Tevo)
-  #define DEFAULT_Kp 41.09
-  #define DEFAULT_Ki 7.60
-  #define DEFAULT_Kd 55.54
+  // Custom Hotend with to heaters
+  #define DEFAULT_Kp 18.71
+  #define DEFAULT_Ki 1.46
+  #define DEFAULT_Kd 59.74
 
 #endif // PIDTEMP
 
